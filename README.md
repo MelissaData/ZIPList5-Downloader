@@ -8,7 +8,7 @@ For the latest Melissa ZIPList5 release notes, please visit:
 ## Tested Environments
 - Windows 11 64-bit, .NET Runtimes 7.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit, .NET 7.0
-- Melissa ZIPList5 for 2024-02
+- Melissa ZIPList5 for 2024-03
 
 ## Getting started
 
