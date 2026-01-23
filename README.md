@@ -2,7 +2,7 @@
 
 This is the script that downloads Melissa ZIPList5 for you to use.
 
-For the latest Melissa ZIPList5 release notes, please visit:
+To view the latest Melissa ZIPList5 release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/ziplist5/
 
 ## Tested Environments
